@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+# Ignore ALL data
+data/
+
+# Ignore large files
+*.parquet
+*.csv
